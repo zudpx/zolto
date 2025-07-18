@@ -1,0 +1,6 @@
+PyQt5
+psutil
+keyboard
+requests
+paramiko
+scapy
