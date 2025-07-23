@@ -3,10 +3,10 @@ ZOLTO Installation Guide
 
 Follow these simple steps to install and run the ZOLTO tool:
 
-Step 1: Install Python 3.10.11
+Step 1: Install Python 3.13.5
 -----------------------------
 Download and install Python:
-https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
+https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe
 
 Make sure to check the box “Add Python to PATH” during installation.
 
